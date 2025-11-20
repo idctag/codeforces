@@ -1,5 +1,5 @@
-use codeforces::eight_hundred::capitalization;
+use codeforces::nine_hundred::mex;
 
 fn main() {
-    capitalization::main();
+    mex::main();
 }
