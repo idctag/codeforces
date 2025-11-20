@@ -1,5 +1,5 @@
-use codeforces::easy::beautiful_matrix;
+use codeforces::eight_hundred::capitalization;
 
 fn main() {
-    beautiful_matrix::main();
+    capitalization::main();
 }

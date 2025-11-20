@@ -1,7 +1,11 @@
 pub mod beautiful_matrix;
 pub mod bit;
+pub mod boy_or_girl;
+pub mod capitalization;
 pub mod domino;
+pub mod helpful_maths;
 pub mod next_round;
+pub mod petaya_strings;
 pub mod team;
 pub mod watermelon;
 pub mod waytoo_long_words;
