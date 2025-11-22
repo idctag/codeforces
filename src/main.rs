@@ -1,5 +1,5 @@
-use codeforces::nine_hundred::mex;
+use codeforces::nine_hundred::pacer;
 
 fn main() {
-    mex::main();
+    pacer::main();
 }
